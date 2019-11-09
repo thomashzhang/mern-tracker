@@ -1,2 +1,3 @@
 # mern-tracker
-Test Mern App (https://www.youtube.com/watch?v=7CqJlxBYj-M)
+Track activities
+Tutorial: Mern App (https://www.youtube.com/watch?v=7CqJlxBYj-M)
